@@ -80,3 +80,7 @@ module.exports = {
   email: Env.get("ZEN_DESK_EMAIL")
 };
 ```
+
+## Support
+
+Having trouble? [Open an issue](https://github.com/jacobwise/adonis-zendesk/issues/new)!

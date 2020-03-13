@@ -16,5 +16,9 @@
   "dependencies": {
     "request": "^2.88.2",
     "zendesk-node": "^0.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobwise/adonis-zendesk.git"
   }
 }
