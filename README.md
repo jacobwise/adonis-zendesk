@@ -96,7 +96,7 @@ const Zendesk = use("Adonis/Addons/Zendesk");
 const zendeskClient = Zendesk.get();
 ```
 
-6. This is a wrapper for [Zendesk NodeJS SDK](https://github.com/hostmakerco/zendesk-node-sdk), go there there examples on how to use the Node SDK
+6. This is a wrapper for [Zendesk NodeJS SDK](https://github.com/hostmakerco/zendesk-node-sdk), go there to see examples on how to use the Node SDK
 
 ## Support
 
