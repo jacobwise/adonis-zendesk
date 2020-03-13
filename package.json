@@ -1,6 +1,6 @@
 {
   "name": "adonis-zendesk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Zendesk service provider for AdonisJs",
   "main": "src/Zendesk/index.js",
   "scripts": {
