@@ -1,0 +1,20 @@
+{
+  "name": "adonis-zendesk",
+  "version": "1.0.4",
+  "description": "Zendesk service provider for AdonisJs",
+  "main": "src/Zendesk/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zendesk",
+    "adonisjs",
+    "adonis"
+  ],
+  "author": "Jacob Wise",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "zendesk-node": "^0.8.2"
+  }
+}
