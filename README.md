@@ -81,6 +81,23 @@ module.exports = {
 };
 ```
 
+4. Add in your `.env` file
+
+```bash
+ZEN_DESK_TOKEN=
+ZEN_DESK_EMAIL=
+ZEN_DESK_SUBDOMAIN=
+```
+
+5. Using it in code
+
+```javascript
+const Zendesk = use("Adonis/Addons/Zendesk");
+const zendeskClient = Zendesk.get();
+```
+
+6. This is a wrapper for [Zendesk NodeJS SDK](https://github.com/hostmakerco/zendesk-node-sdk), go there there examples on how to use the Node SDK
+
 ## Support
 
 Having trouble? [Open an issue](https://github.com/jacobwise/adonis-zendesk/issues/new)!

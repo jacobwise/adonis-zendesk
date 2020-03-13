@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "zendesk",
-    "adonisjs",
-    "adonis"
+    "Zendesk",
+    "AdonisJs",
+    "Adonis",
+    "NodeJS"
   ],
   "author": "Jacob Wise",
   "license": "ISC",
